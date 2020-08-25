@@ -1,3 +1,7 @@
+# react
+
+Hello there! This repo is nothing much but to learn ReactJS. I've used the `create-react-app` command to build react (coz I haven't learned babel & Webpack yet!)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
