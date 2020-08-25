@@ -21,6 +21,14 @@ function App() {
         <p>
             Need anything more?
           </p>
+        <a
+          className="App-link"
+          href="https://github.com/alphaX86"
+          rel="noopener noreferrer"
+          target="_blank"
+          >
+            Know me!
+          </a>
       </header>
     </div>
   );
