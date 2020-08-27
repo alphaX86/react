@@ -29,6 +29,13 @@ function App() {
           >
             Know me!
           </a>
+        <a
+          className="App-link"
+          href="https://kryome.carrd.co"
+          rel="noopener referrer"
+          >
+            My Carrd
+          </a>
       </header>
     </div>
   );
