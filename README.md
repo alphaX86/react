@@ -4,6 +4,8 @@ Hello there! This repo is nothing much but to learn ReactJS. I've used the `crea
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Site available in public at https://page-cv-4abf6.web.app/ (or) https://page-cv-4abf6.firebaseapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
